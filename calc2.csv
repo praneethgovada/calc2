@@ -1,0 +1,5 @@
+﻿value a,oper,value b,result
+1,+,2,
+1,-,2,
+1,*,2,
+1,/,2,
